@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+    -moz-box-align: center;
+}
+
+body{
+    font-family:sans-serif;
+    
+    background-color: #fd9a9a;
+}
+
+header{
+    color: honeydew;
+    text-align: center;
+    background-color: rgb(158, 192, 160);
+    margin: 20px;
+    padding: 10px;
+}
+
+header h1{
+    font-size: 50px;
+    font-family: cursive;
+    margin: 10px;
+}
+
+nav{
+    background-color: rgb(236, 175, 5);
+    margin-bottom: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 40px;
+}
+
+nav ul li a{
+    color: rgb(245, 238, 238);
+    text-decoration: none;
+    font-family: Impact;
+     
+}
+#firstOne{
+    
+    width: 80%;
+}
+.family{
+    
+    width: 960px;
+    height: 450px;
+    
+}
+
+#second{
+    
+    width: 80%;
+    
+}
+
+.types{
+    
+    width: 300px;
+    height: 375px;
+    border:inset coral;
+}
+
+
+.fish{
+    background-color:rgb(245, 245, 245);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#three{
+    width: 90%;
+}
+
+.shirt{
+    border: lightblue solid;
+    width: 480px;
+    height: 300px;
+    float:left;
+}
+
+p{
+    font-size: 20px;
+    font-family: Calibri;
+     text-align:left;
+     font-style: italic;
+}
+
+footer p{
+    
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(14, 17, 14);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.headimage{
+    
+    width: 960px;
+    height:450px;
+    margin-left: 250px;
+   
+}
+nav ul {
+    margin-top: 20px;
+    background-color: rgb(216, 185, 245);
+    margin-right:20px;
+    padding: 10px;
+}
+nav ul li{
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    font-family: cursive;
+    ......background-color: rgb(131, 212, 212);.......
+}
+
+
+
+nav ul li a{
+    margin-top: 20px;
+    color: #f16f04;
+    text-decoration: none;
+    padding: 20px;
+    
+    
+}
+.placeholder{
+    margin-top: 20px;
+    margin-left: 100px;
+    border: gold solid ;
+    float: left;
+    width: 300px;
+    height: 375px;
+ 
+}
+.card{
+    background-color: rgb(125, 219, 18);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+*/
