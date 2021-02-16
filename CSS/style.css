@@ -6,13 +6,13 @@
 body{
     font-family:sans-serif;
     
-    background-color: #f5f4f4;
+    background-color: #ffffff;
 }
 
 header{
     color: honeydew;
     text-align: center;
-    background-color: rgb(158, 192, 160);
+    background-color: rgb(95, 97, 95);
     margin: 20px;
 }
 
@@ -102,6 +102,7 @@ footer {
     background-color: rgb(84, 85, 84);
     margin-top: 20px;
     margin-bottom: 10px;
+    height: 100px;
 }
 
 
